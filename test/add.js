@@ -2,7 +2,7 @@
 const assert = require('assert');
 var chai = require('chai');
 var expect = chai.expect;
-const addResult = require('../app/converter');
+const addResult = require('../app/addition');
 
 chai.should();
 
